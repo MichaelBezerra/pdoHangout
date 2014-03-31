@@ -1,0 +1,7 @@
+{
+	"require":{
+		"php-activerecord/php-activerecord": "dev-master",
+		"phpmailer/phpmailer": "v5.2.7",
+		"twitter/bootstrap": "v3.1.1"
+	}
+}
